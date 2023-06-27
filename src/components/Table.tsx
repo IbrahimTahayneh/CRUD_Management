@@ -34,9 +34,7 @@ const Table = () => {
               width={243}
               height={242}
             /> */}
-            <span className="text-center ml-2 font-semibold">
-              Daily Tuition
-            </span>
+            <span className="text-center ml-2 font-bold">Daily Tuition</span>
           </td>
           <td className="px-16 py-2">
             <span>dailytuition@gmail.com</span>
